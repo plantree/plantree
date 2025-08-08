@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm plantree</h1>
 <h3 align="center">A software engineer from China</h3>
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=plantree.me/about&left_text=Profile%20views" alt="profile views"> </p>
-
 - 🔭 I’m currently working on **Microsoft** about *browser engine*
 - 🌱 I’m currently learning **Computer Network and Web Development**
 - 📝 I regularly write articles on [https://plantree.me](https://plantree.me)
